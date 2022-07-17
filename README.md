@@ -1,6 +1,6 @@
 # AlgorithmTillMidNight
 An Algorithm which tells the number of hours until midnight!
 
-#Explanation
+# Explanation
 
 The time untill midnight 24 - current hour.
